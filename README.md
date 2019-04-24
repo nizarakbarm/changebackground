@@ -5,3 +5,6 @@ You must register at pexels and pixabay and get the api key because this script 
 
 ## Use This Script to Change Background Periodically
 You can run this script in cron and save the image in some directory then you can use changebackground in cron too to change your background periodically.
+
+## There is still issues
+Tbere is still issues in this script that i cannot solve. If you found the solution, i'm happy to see you contribute at my script. 
